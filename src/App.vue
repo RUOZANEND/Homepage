@@ -25,7 +25,7 @@ body {
   min-height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #9b4592;
+  background-color: #EE9AE5;
 }
 
 @media screen and (max-width: 900px) {
